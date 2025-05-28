@@ -217,7 +217,8 @@ end
 
 #### Activity 1: ATM Simulation
 
-![Activity1](https://github.com/user-attachments/assets/6b89f598-5e3b-4bc2-af44-444257730a6c)
+![Screenshot 2025-05-28 185431](https://github.com/user-attachments/assets/c731ce2d-a902-4593-8515-35339c47a1e6)
+
 
 #### Activity 2: Student Grade Calculator
 
