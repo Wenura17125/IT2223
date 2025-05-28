@@ -24,7 +24,8 @@ This repository contains practical exercises and implementations for the MATLAB 
 
 **Output:**
 
-![2](https://github.com/user-attachments/assets/0d2bd3f1-e220-4419-af7c-97e7ff7963f9)
+![Screenshot 2025-05-28 190539](https://github.com/user-attachments/assets/131531e6-d9b8-40f5-b56a-a9e57de77d0a)
+
 
 ### 📊 Implementation Results
 
